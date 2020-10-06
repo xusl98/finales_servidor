@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3F5M0VIZwAEtAOQsqlIXWxJeMcI6i7Q114HaFtaKKiP0EL3ab4zYHvFk5nwXccHnqjRoUy7QW5t6QW4sPZxkg==",
+  "dgSpecHash": "4h5WPnSmg7WOvQ4ThdmfKD4nrNQSAuyzZaJtJDXG3hE5zyCdykvaubCcXAVsx+AIjnPt/cR5w0ufnH/Nl945FQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario\\source\\repos\\curso07-finales_servidor\\WACAereo\\WACAereo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.0\\microsoft.codeanalysis.analyzers.3.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
